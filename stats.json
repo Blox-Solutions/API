@@ -1,7 +1,6 @@
 
-
 {
-    "cpudata":
+    "cpudata": 
     {
         "cpus":"all",
         "user":0.250000,
@@ -11,7 +10,7 @@
         "steal":0.000000,
         "idle":99.530000
     },
-    "memory-data":
+    "memdata":
     {
         "available":2566601.000000,
         "used":282444.000000,
@@ -22,7 +21,7 @@
         "inactive":583742.000000,
         "dirty":19.000000
     },
-    "iodata":
+    "iodata": 
     {
         "tps":0.380000,
         "rtps":0.000000,
